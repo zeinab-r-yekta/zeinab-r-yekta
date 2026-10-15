@@ -16,12 +16,12 @@ If part of your business could run on its own, send me a message on [LinkedIn](h
 
 ## What I Work With
 
-**Frontend:** React.js · Next.js · HTML5 · CSS3 · Tailwind CSS · Bootstrap  
-**Backend:** Node.js · Express.js · FastAPI · ASP.NET Core · REST APIs  
-**Databases:** PostgreSQL · MongoDB · MySQL · SQL Server · SQLite · Supabase  
-**AI & Automation:** n8n · AI Agents · LLMs · RAG · OpenAI API  
-**DevOps & Tools:** Git · GitHub Actions · CI/CD · Docker · Vercel · Render · Cloudflare · Jest · Vitest  
-**Languages:** Python · JavaScript · TypeScript · C# · SQL
+**Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap  
+**Backend:** Node.js, Express.js, FastAPI, ASP.NET Core, REST APIs  
+**Databases:** PostgreSQL, MongoDB, MySQL, SQL Server, SQLite, Supabase  
+**AI & Automation:** n8n, AI Agents, LLMs, RAG, OpenAI API  
+**DevOps & Tools:** Git, GitHub Actions, CI/CD, Docker, Vercel, Render, Cloudflare, Jest, Vitest  
+**Languages:** Python, JavaScript, TypeScript, C#, SQL
 
 ## Client Work
 
