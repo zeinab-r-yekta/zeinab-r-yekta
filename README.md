@@ -1,4 +1,4 @@
-# Hi, I'm Zeinab Ramezani Yekta 👋
+# Hi, I'm Zeinab Ramezani Yekta
 
 Full-Stack Developer with experience across Germany, Italy, and Pakistan. I build production web applications with React, Node.js, PostgreSQL, Python, and C#/.NET, and I run an AI automation service for small businesses.
 
@@ -27,36 +27,36 @@ If part of your business could run on its own, send me a message on [LinkedIn](h
 
 The source code of these projects belongs to my clients and stays private.
 
-### 🛍️ RYP Products · [Live site](https://rypproduct.com)
+### RYP Products [Live site](https://rypproduct.com)
 E-commerce store for a Pakistani herbal products brand, with guest checkout and an admin panel. AI agents write SEO blog posts every few days and publish social media content, and an n8n agent answers customer questions from the product knowledge base.  
 `Next.js` `React` `Supabase` `Tailwind CSS` `Cloudflare` `n8n`
 
-### 🏢 Multi-Tenant ERP System · Client project
+### Multi-Tenant ERP System
 Backend for an ERP used by several client companies. I designed the PostgreSQL schemas for the HR, Finance, and Sales modules, set up row-level security so each company only sees its own data, and built ETL pipelines that follow GDPR rules.  
 `PostgreSQL` `SQL` `Row-Level Security` `ETL`
 
-### 🤖 AI Automation for Small Businesses · Freelance
+### AI Automation for Small Businesses
 Built for clients across Europe: AI agents for WhatsApp and email customer support, Facebook comment replies, lead capture, blog and SEO content, and a voice agent that takes customer orders.  
 `n8n` `OpenAI` `RAG` `Pinecone` `WhatsApp API` `Google Sheets`
 
 ## Featured Projects
 
-### 📚 [Book Library Dashboard](https://github.com/zeinab-r-yekta/book-library-dashboard) · [Live demo](https://book-library-dashboard.vercel.app)
+### [Book Library Dashboard](https://github.com/zeinab-r-yekta/book-library-dashboard) [Live demo](https://book-library-dashboard.vercel.app)
 Full-stack library management platform with JWT auth, role-based access (admin/user), automated testing with Jest and Supertest, and CI/CD via GitHub Actions.  
 `React` `Node.js` `Express` `MongoDB` `JWT` `GitHub Actions`
 
-### 🧾 [InvoiceLens](https://github.com/zeinab-r-yekta/InvoiceLens)
+### [InvoiceLens](https://github.com/zeinab-r-yekta/InvoiceLens)
 OCR invoice extraction for German and English invoices from PDFs, scans, and photos. Checks mandatory fields, flags duplicates, and exports to Excel for accounting.  
 `Python` `FastAPI` `Tesseract OCR` `SQLite` `React`
 
-### 📊 [Job Application Tracker](https://github.com/zeinab-r-yekta/job-application-tracker) · [Live demo](https://zeinab-r-yekta.github.io/job-application-tracker/)
+### [Job Application Tracker](https://github.com/zeinab-r-yekta/job-application-tracker) [Live demo](https://zeinab-r-yekta.github.io/job-application-tracker/)
 Tracks job applications, interviews, and offers, with interactive dashboards, full CRUD, tests, and automated deployment to GitHub Pages.  
 `React` `Vite` `Recharts` `Vitest` `GitHub Actions`
 
-### 📈 [MyDashboardApp](https://github.com/zeinab-r-yekta/MyDashboardApp)
+### [MyDashboardApp](https://github.com/zeinab-r-yekta/MyDashboardApp)
 Sales dashboard with role-based access. When an admin adds a sale, every open dashboard updates live over SignalR.  
 `C#` `ASP.NET Core 8` `EF Core` `SQL Server` `SignalR` `Chart.js`
 
 ---
 
-📫 Get in touch on [LinkedIn](https://linkedin.com/in/zeinab-ramezani)
+Get in touch on [LinkedIn](https://linkedin.com/in/zeinab-ramezani)
